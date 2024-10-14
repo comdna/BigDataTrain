@@ -28,8 +28,8 @@ public class InvertedIndexDriver {
 		//6.输入输出路径
 		
 		//本地操作
-		FileInputFormat.addInputPath(job, new Path("/home/hadoop/eclipse-workspace/InvertedIndex/src/main/input"));
-		FileOutputFormat.setOutputPath(job, new Path("/home/hadoop/eclipse-workspace/InvertedIndex/src/main/output"));
+		FileInputFormat.addInputPath(job, new Path("/home/hadoop/eclipse-workspace/InvertedIndex/src/main/input2"));
+		FileOutputFormat.setOutputPath(job, new Path("/home/hadoop/eclipse-workspace/InvertedIndex/src/main/output2"));
 		////远程操作
 		//String[] otherArgs = (new GenericOptionsParser(conf, args)).getRemainingArgs();
 		// if(otherArgs.length < 2) {

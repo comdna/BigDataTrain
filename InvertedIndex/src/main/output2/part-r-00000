@@ -1,0 +1,4 @@
+Driver	f3.txt->2;
+InvertedIndex	f1.txt->2;f2.txt->2;f3.txt->2;
+Mapper	f1.txt->2;
+Reducer	f2.txt->2;
