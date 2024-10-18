@@ -8,8 +8,6 @@ target
 .classpath
 .project
 test
-input
-output
 resources
 
 # 不放入仓库的项目
