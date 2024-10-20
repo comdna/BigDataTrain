@@ -2,7 +2,6 @@
 .vscode
 .metadata
 demo
-Count
 .settings
 target
 .classpath
@@ -11,4 +10,3 @@ test
 resources
 
 # 不放入仓库的项目
-Slice
