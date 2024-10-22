@@ -16,6 +16,10 @@ Count -> 带有Combiner的WordCount
 
 outputFormatDemo -> 自定义Reducer结束之后的输出格式和位置
 
+lab1 -> 实验要求在文件夹里面有
+
+TableJoin -> 使用MR处理表的连接问题
+
 # 一些问题
 
 许多路径采用的是绝对路径，所以很多代码不能直接跑
