@@ -16,7 +16,7 @@ Count -> 带有Combiner的WordCount
 
 outputFormatDemo -> 自定义Reducer结束之后的输出格式和位置
 
-lab1 -> 实验要求在文件夹里面有
+lab -> 一个综合性的小实验，实验要求在lab文件夹中的pdf文件中
 
 TableJoin -> 使用MR处理表的连接问题
 
