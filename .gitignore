@@ -7,6 +7,6 @@ target
 .classpath
 .project
 test
-resources
+output
 
 # 暂时不放入仓库的项目
